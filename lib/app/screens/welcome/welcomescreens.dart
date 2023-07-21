@@ -11,7 +11,7 @@ padding: EdgeInsets.all(30),
     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
     children: [
       Image(image: AssetImage("images/lofoprins.png"),height: 250,width: 250,),
-      Text("بسم الله الرحمتن الراحيم",style: TextStyle(
+      Text("بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",style: TextStyle(
           fontSize: 50,
           fontFamily:"quran"
       ),
