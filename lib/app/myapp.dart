@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:newapp/app/screens/welcome/welcomescreens.dart';
-import 'package:newapp/app/signinandsignup/signin.dart';
-import 'package:newapp/app/signinandsignup/signup.dart';
+import 'package:newapp/app/external_pages/screens/welcome/welcomescreens.dart';
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
